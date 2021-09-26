@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "AtUmr"
-  avatar           : "profile.png"
+  avatar           : "alice.png"
   bio              : "This blog is modeled after https://academicpages.github.io/ . It is under adjustment. "
   location         : "Nanjing, China"
   employer         :
