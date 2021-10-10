@@ -1,5 +1,5 @@
 ---
-title: 'Conway's Game of Life'
+title: 'Conway's Game of Life 1'
 date: 2021-10-10
 permalink: /posts/2021/10/conway-game01/
 tags:
