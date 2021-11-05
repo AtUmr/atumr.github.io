@@ -7,7 +7,6 @@ tags:
   - mathematical game
 ---
 
-## 康威生命游戏
 
 康威生命游戏(Conway's Game of Life)，又称康威生命棋，是英国数学家 约翰·何顿·康威(John Horton Conway) 在1970发明的**细胞自动机**。  
 
