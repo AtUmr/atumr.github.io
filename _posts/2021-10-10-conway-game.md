@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 'Conway's Game of Life 1'
+title: "Conway's Game of Life 1"
 subtitle:   "康威生命游戏 1"
 date: 2021-09-26
 author:     "Atumr"

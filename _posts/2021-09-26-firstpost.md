@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 'My First Post'
+title: "My First Post"
 subtitle:   "第一个博客"
 date: 2021-09-26
 author:     "Atumr"
