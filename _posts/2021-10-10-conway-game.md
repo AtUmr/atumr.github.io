@@ -1,7 +1,9 @@
 ---
+layout:     post
 title: 'Conway's Game of Life 1'
-date: 2021-10-10
-permalink: /posts/2021/10/conway-game01/
+subtitle:   "康威生命游戏 1"
+date: 2021-09-26
+author:     "Atumr"
 tags:
   - cellular automata
   - mathematical game
